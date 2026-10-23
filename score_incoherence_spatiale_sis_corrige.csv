@@ -1,0 +1,13 @@
+Rayon_A,Rayon_B,Lift_Affinite,Distance_Physique_Allées,Score_SIS
+Entretien Ménager,Conserves,1.0,4,4.02
+Conserves,Entretien Ménager,1.0,4,4.02
+Sauces & Soupes,Épicerie Sèche,1.04,2,2.07
+Épicerie Sèche,Sauces & Soupes,1.04,2,2.07
+Épicerie Sèche,Huiles & Condiments,1.09,1,1.09
+Huiles & Condiments,Épicerie Sèche,1.09,1,1.09
+Conserves,Huiles & Condiments,1.07,1,1.07
+Huiles & Condiments,Conserves,1.07,1,1.07
+Sauces & Soupes,Huiles & Condiments,1.06,1,1.06
+Huiles & Condiments,Sauces & Soupes,1.06,1,1.06
+Eaux & Jus,Sodas & Boissons,1.17,0,0.0
+Sodas & Boissons,Eaux & Jus,1.17,0,0.0

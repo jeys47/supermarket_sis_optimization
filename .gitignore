@@ -1,0 +1,116 @@
+ ==============================================================================
+
+1. VIRTUAL ENVIRONMENTS (CRITICAL: Prevents pushing large dependencies)
+
+==============================================================================
+
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+bin/
+include/
+lib/
+lib64/
+share/
+pyvenv.cfg
+
+==============================================================================
+
+2. PYTHON CACHE, COMPILED FILES & BUILD ARTIFACTS
+
+==============================================================================
+
+pycache/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+*.pyo
+
+Distribution & packaging
+
+build/
+bdist/
+dist/
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+
+==============================================================================
+
+3. JUPYTER NOTEBOOK & DATA SCIENCE ARTIFACTS
+
+==============================================================================
+
+.ipynb_checkpoints
+/.ipynb_checkpoints/
+.pylintrc
+
+==============================================================================
+
+4. STREAMLIT & APPLICATION TEMP FILES
+
+==============================================================================
+
+.streamlit/config.toml.local
+.streamlit/secrets.toml
+*.log
+
+==============================================================================
+
+5. IDE & CODE EDITORS
+
+==============================================================================
+
+VS Code
+
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
+
+PyCharm / JetBrains
+
+.idea/
+
+Sublime Text / Vim
+
+*.sublime-workspace
+*.sublime-project
+*.swp
+*.swo
+
+==============================================================================
+
+6. OPERATING SYSTEM FILES
+
+==============================================================================
+
+macOS
+
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+Windows
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+==============================================================================
+
+7. ENVIRONMENT VARIABLES & SECRETS
+
+==============================================================================
+
+.env
+.env.local
+.env.*
