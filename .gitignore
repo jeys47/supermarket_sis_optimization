@@ -3,7 +3,7 @@
 1. VIRTUAL ENVIRONMENTS (CRITICAL: Prevents pushing large dependencies)
 
 ==============================================================================
-
+optimisation_rayon/
 .venv/
 venv/
 ENV/
