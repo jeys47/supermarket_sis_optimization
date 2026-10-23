@@ -1,4 +1,4 @@
-#  Smart Layout & Retail Analytics: Supermarket Shop-In-Shop (SIS) Optimization
+#  Smart Layout & Retail Analytics: Supermarket Spatial Incoherence Score (SIS) Optimization
 
 An end-to-end Data Science and Prescriptive Analytics solution designed to optimize supermarket spatial layout (*Store Layout*). By combining **Non-Supervised Machine Learning (K-Means Clustering)**, **Association Rule Mining (FP-Growth)**, and **Financial Pareto Analysis (ABC)**, this project identifies high-value cross-selling pairs and minimizes customer transit friction using the custom **Shop-In-Shop (SIS) Incoherence Index**.
 
@@ -77,8 +77,8 @@ Higher scores highlight severe spatial incoherence (high affinity but physically
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/supermarket-layout-optimization.git
-   cd supermarket-layout-optimization
+   git clone https://github.com/jeys47/supermarket_sis_optimization.git
+   cd supermarket_sis_optimization
    ```
 
 2. **Create a virtual environment (optional but recommended):**
